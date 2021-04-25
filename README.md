@@ -28,7 +28,7 @@ The Discord Rich Presence Download --> https://mega.nz/file/6dMD1AxA#YQUyRumnIjl
 
 Now you can upload your images.
 Go back to Discord Applications, go here.
-https://i.gyazo.com/271525bfabeb9b5c3a95d57512756627.png
+[[https://github.com/NotTez/Zams-v3/blob/main/rich.png]]
 Add images at Art Assets.
 
 # SETTING UP CONFIG
