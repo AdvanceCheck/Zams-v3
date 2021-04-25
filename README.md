@@ -22,8 +22,7 @@ The Discord Rich Presence Download --> https://mega.nz/file/6dMD1AxA#YQUyRumnIjl
 
 1. First, create an application at Discord's New App page. (https://discord.com/developers/applications)
 2. Set the App Name to the title of your Rich Presence playing status. For example, if you want `Playing with discord`, set the app name to `with discord`. You don't need to set a Redirect URI, Description, or App Icon, just click Create App.
-
-https://i.gyazo.com/4ca4976aedca72c10a1a4cc2ee28b20c.png
+[[https://github.com/NotTez/Zams-v3/blob/main/ez.png]]
 
 # UPLOADING IMAGES
 
